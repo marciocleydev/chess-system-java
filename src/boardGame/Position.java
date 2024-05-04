@@ -1,4 +1,4 @@
-package bordGame;
+package boardGame;
 
 public class Position {
     private int row;
